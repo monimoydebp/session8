@@ -23,4 +23,17 @@ ake this network:
 
 ## 10 misclassified images with Batch Normalization
 
-![alt text](https://github.com/monimoydebp/session8/blob/main/misclassified_image_list.png)https://github.com/monimoydebp/session8/blob/main/misclassified_image_list.png)
+![alt text](https://github.com/monimoydebp/session8/blob/main/misclassified_image_list.png)
+
+## Epoch vs Train Acccuracy Plot
+
+![alt text](https://github.com/monimoydebp/session8/blob/main/epoch_vs_train_accuracy.png)
+
+## Epoch vs Test Loss Plot
+
+![alt text](https://github.com/monimoydebp/session8/blob/main/epoch_vs_test_loss.png)
+
+
+## Epoch vs Test Accuracy Plot
+
+![alt text](https://github.com/monimoydebp/session8/blob/main/epoch_vs_test_accuracy.png)

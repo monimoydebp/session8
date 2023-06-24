@@ -21,6 +21,13 @@ ake this network:
 * Layer Normalization: 79.12
 * Group Normalization: 78.33
 
+## Observation of normalization techniques
+- Batch normalization makes the neural network training more efficient and stable.
+- Layered normalization is used to normalize the distributions of intermediate layers. It enables smoother gradients, faster training, and better generalization accuracy
+- From the training and test accuracy for the network used, for all the three techniques have similar perfomance
+- 
+
+
 ## 10 misclassified images with Batch Normalization
 
 ![alt text](https://github.com/monimoydebp/session8/blob/main/misclassified_image_list.png)

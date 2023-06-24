@@ -6,8 +6,11 @@ This repository CIFAR10 dataset is trained with a
 ake this network:
 * C1 C2 c3 P1 C3 C4 C5 c6 P2 C7 C8 C9 GAP C10,
 *   Keep the parameter count less than 50000
-* Try and add one layer to another
+* One layer is added to antoher i.e. x + conv(x)
 * Training is done with three different normalization i. Batch Normalization ii. Layer Normalization iii. Group Normalization
+* Random Crop is used for augmentation
+* 10 misclassified images are displayed for Batch normalization
+* Various plots (training accuracy, test accuracy, test loss are plotted)
 
 ## Training Accuracy of Models
 
